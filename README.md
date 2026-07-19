@@ -1,6 +1,7 @@
-# Lovable OAuth metadata for Codex
+# Archived Lovable OAuth metadata experiment
 
-Public, non-secret OAuth client metadata for the 100Yen Codex to Lovable MCP
-bridge. The live document is:
+This experiment is not used. Lovable rejected third-party Client ID Metadata
+Documents during validation on 2026-07-19.
 
-https://100yenadmin.github.io/lovable-codex-oauth-client/client.json
+The working Codex integration uses Lovable's documented public OAuth client ID
+through a local `mcp-stdio` bridge. This repository contains no credentials.
