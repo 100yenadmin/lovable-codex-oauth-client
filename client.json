@@ -2,7 +2,6 @@
   "client_id": "https://100yenadmin.github.io/lovable-codex-oauth-client/client.json",
   "client_name": "100Yen Codex Lovable MCP",
   "client_uri": "https://github.com/100yenadmin/lovable-codex-oauth-client",
-  "application_type": "native",
   "redirect_uris": [
     "http://localhost/callback",
     "http://127.0.0.1/callback"
@@ -14,6 +13,5 @@
   "response_types": [
     "code"
   ],
-  "token_endpoint_auth_method": "none",
-  "scope": "offline openid email profile connector:invoke projects:create projects:read projects:write workspaces:create workspaces:read workspaces:write"
+  "token_endpoint_auth_method": "none"
 }
